@@ -1,0 +1,6 @@
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\bin\Debug\responsi_4442.exe.config
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\bin\Debug\responsi_4442.exe
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\bin\Debug\responsi_4442.pdb
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\obj\Debug\responsi_4442.csprojResolveAssemblyReference.cache
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\obj\Debug\responsi_4442.exe
+E:\nurul\Skul\Kuliah\Pemrograman\responsi_4442\responsi_4442\obj\Debug\responsi_4442.pdb
